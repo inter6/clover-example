@@ -1,6 +1,8 @@
 clover-example
 ==============
 
+[![CircleCI](https://circleci.com/gh/inter6/clover-example.svg?style=svg)](https://circleci.com/gh/inter6/clover-example)
+
 [Clover](http://openclover.org/)로 Java 코드 테스트 및 정적 분석을 수행하는 예제 프로젝트 
 
 
